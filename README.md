@@ -2,7 +2,7 @@
 
 ## 1. Preview
 
-Here is the [link](https://yourphotojournal.netlify.app/) for the website.
+Here is the [link](https://myphotojournal.netlify.app/) for the website.
 
 ![PhotoJournal!](/public/images/first.png)
 
