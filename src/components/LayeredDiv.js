@@ -1,5 +1,5 @@
 import React from "react";
-import AppContext from "./AppContext";
+//import AppContext from "./AppContext";
 import ContentAreaContext from "./ContentAreaContext";
 
 class LayeredDiv extends React.Component {
@@ -19,9 +19,9 @@ class Layer1 extends React.Component {
           marginRight: "10rem",
         }}
       >
-        <p>Layer1</p>
+        <p>Love</p>
         <Layer2 />
-        <p>Layer1</p>
+        <p>Love</p>
       </div>
     );
   }
@@ -38,9 +38,9 @@ class Layer2 extends React.Component {
           marginRight: "2rem",
         }}
       >
-        <p>Layer2</p>
+        <p>Enjoy</p>
         <Layer3 />
-        <p>Layer2</p>
+        <p>Enjoy</p>
       </div>
     );
   }
@@ -62,7 +62,7 @@ class Layer3 extends React.Component {
           padding: "0.5rem",
         }}
       >
-        <p>Layer3</p>
+        <p>Hey</p>
         <p>
           {this.context.userName}
           <br />
