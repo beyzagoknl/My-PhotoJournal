@@ -4,6 +4,10 @@
 
 Here is the [link](https://yourphotojournal.netlify.app/) for the website.
 
+![PhotoJournal!](/public/images/first.png)
+
+![PhotoJournal!](/public/images/second.png)
+
 ## 2. Description
 
 Please try my app with this information:
