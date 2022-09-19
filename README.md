@@ -2,12 +2,25 @@
 
 ## 1. Preview
 
-Here is the [link](https://delicate-boba-58fe37.netlify.app/) for the website.
+Here is the [link](https://yourphotojournal.netlify.app/) for the website.
+
 ## 2. Description
 
-The PhotoJournal App is a web application that helps you to see all photos. This is my free time and first React project. I improved my React skill.
+Please try my app with this information:
 
+user ID : jenny
+password: 12345
 
+or
+
+user ID : harry
+password : 12345
+
+The PhotoJournal App is a web application that helps you to see all photos.
+
+When you use user Id and password you can add comment to each photo and you can see your information like your like, your messages, your friends. Don't forget to look "layer 3" , every user has a message with own name!
+
+This is my free time and first React project. I improved my React skill.
 
 ## 3. Application
 
