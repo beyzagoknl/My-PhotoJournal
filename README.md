@@ -22,7 +22,7 @@ password : 12345
 
 The PhotoJournal App is a web application that helps you to see all photos.
 
-When you use user Id and password you can add comment to each photo and you can see your information like your like, your messages, your friends. Don't forget to look the down at the page, every user has a message with own name!
+When you use user Id and password you can see comment box to each photo and you can see your information like your like, your messages, your friends. Don't forget to look the down at the page, every user has a message with own name!
 
 This is my free time and first React project. I improved my React skill.
 
